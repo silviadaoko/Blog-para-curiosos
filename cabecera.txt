@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>CABECERA</title>
+</head>
+<body>
+<body background="code.jpg" link="#FBFCFC" vlink="#EE226F" alink="#486FC8">
+<center><font color="#FDFEFE"><FONT FACE="Courier" size=14>Blog para gente curiosa</center></font>
+</BODY>
+</html>
